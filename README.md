@@ -1,16 +1,18 @@
 # explore
 
-A new Flutter project.
+A Flutter test project to display list of movies , persist locally and leverage on Material animations.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/39584544/202437925-61a2483b-0c67-4e44-a18d-93ea263f79e7.mov
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Set up
+- Delete the `build` folder.
+- Run `flutter clean`
+- Then run `flutter run`
+
+## Author
+Anthony Ebuka Nwudo(Senior mobile developer)
